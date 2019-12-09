@@ -5,5 +5,9 @@ public class Test1 {
         System.out.println("Hello word");
 
         int num = 1;
+
+        System.out.println(num);
+        String word = "Seda";
+
     }
 }
