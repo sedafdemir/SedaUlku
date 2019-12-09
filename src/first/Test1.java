@@ -8,6 +8,7 @@ public class Test1 {
 
         System.out.println(num);
         String word = "Seda";
+        System.out.println("Ulku and I are working");
 
     }
 }
